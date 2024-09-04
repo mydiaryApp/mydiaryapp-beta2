@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635299798430",
+    "project_id": "mydiary-app-latest",
+    "storage_bucket": "mydiary-app-latest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635299798430:android:8b4f612e06051aa1d90a8f",
+        "android_client_info": {
+          "package_name": "com.example.emotions_support_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa_xD8kTSOY6gwqgVZjUrPvp8GVgh867I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
